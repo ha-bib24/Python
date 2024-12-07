@@ -1,0 +1,9 @@
+Weak Signal: Try moving to a different location, preferably near a window or outside. Sometimes, physical obstructions can weaken the signal.
+
+Slow Internet: Toggle Airplane mode on and off, or restart your device. If the issue persists, check if your data plan allows for higher speeds.
+
+Dropped Calls: Ensure your phone has a good signal and isn't low on battery. Sometimes, switching to a different network band (e.g., 2G instead of 4G) can help.
+
+Unable to Connect to Wi-Fi: Restart your router and your phone. Make sure your phone's Wi-Fi is turned on and that you're within range of the router.
+
+Network Congestion: This can happen during peak hours. Try using your mobile data at a different time or switching to a less crowded network.
